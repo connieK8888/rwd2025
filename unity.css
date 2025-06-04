@@ -79,5 +79,8 @@
     color:blue;
     margin: 0px 5px;
 }
+.successCase--list {
+    background-color: #F5F5F5; /* 恢復背景顏色 */
+}
 
 
